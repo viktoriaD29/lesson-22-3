@@ -1,10 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
 main {
   display: flex;
+  text-align: center;
 }
 
 picture {
   margin: auto;
-  
 }
 
 img {
